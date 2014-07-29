@@ -11,9 +11,10 @@ Getting Setup
 
 3. In bot.rb fill in your fav sub (line 4), your username (line 25) and password (line 27)
 
-4. in the folder with containing this code, run
+4. Inside the folder containing this code, run
     ruby bot.rb  
 
 Later on
 =========
 Add more comments to the replies.txt page
+
