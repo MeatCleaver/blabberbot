@@ -60,7 +60,7 @@ while $time.month != 8
 	$commentboxes.each do |e|
 		$name = e.attribute('name');
 		if($name=="text")
-			e.send_keys($replies[$replies.length-1]);	
+			e.send_keys($replies[rand($replies.length-1]));	
 			break;
 		end
 	end
