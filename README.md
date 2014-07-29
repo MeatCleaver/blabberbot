@@ -9,7 +9,7 @@ Getting Setup
 2. Run these commands to get the reqd gems:
     gem install selenium-webdriver
 
-3. In bot.rb fill in your fav sub (line ), your username (line ) and password (line )
+3. In bot.rb fill in your fav sub (line 4), your username (line 25) and password (line 27)
 
 4. in the folder with containing this code, run
     ruby bot.rb  
